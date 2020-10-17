@@ -4,3 +4,5 @@ node_modules/
 # Real World demo repositories
 realworld/backend
 realworld/frontend
+realworld-compose/backend
+realworld-compose/frontend
