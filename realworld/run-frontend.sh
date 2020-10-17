@@ -1,6 +1,6 @@
 #!/bin/sh
 docker run -it --rm \
-    -p 4200:4200 \
+    -p 8080:8080 \
     --network=realworld \
     --name=frontend \
     realworld-frontend:latest
