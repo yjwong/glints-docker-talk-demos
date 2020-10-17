@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+# Real World demo repositories
+realworld/backend
+realworld/frontend
